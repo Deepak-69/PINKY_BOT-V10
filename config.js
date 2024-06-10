@@ -12,7 +12,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v10.0.0.1',
-    CHANNEL: 'https://t.me/remasterplugin',
+    CHANNEL: 'https://t.me/dipak_sharma_404',
     GANSTYLE: 'https://i.hizliresim.com/loUtAb.jpg',
     SESSION: process.env.PINKY_SESSION === undefined ? '' : process.env.PINKY_SESSION,
     LANG: process.env.LANGUAGE === undefined ? 'en' : process.env.LANGUAGE.toUpperCase(),
@@ -29,9 +29,9 @@ module.exports = {
     ANTİLİNK: 'false',
     AUTOBİO: 'true',
     KICKMEMSG: 'default',
-    OWNER: 'AiDarkEzio',
-    ALL: 'Made By Pinky',
-    MENTION:'94781564565@s.whatsapp.net',
+    OWNER: 'Xei Sensei',
+    ALL: 'Heheh 😗❤️',
+    MENTION:'918252005404@s.whatsapp.net',
     ADDMSG: 'default',
     MUTEMSG: 'default',
     BOT: '⊢‒‒‒ ⋈ PINKY ⋈ ‒‒‒⊣',
@@ -65,8 +65,8 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "905524317852-1612300121",
-    SUPPORT2: "917012074386-1631435717",
-    SUPPORT3: "919072790587-1635775355",
-    SUPPORT4: "905511384572-1625319286"
+    SUPPORT: "9055243127852-16123002121",
+    SUPPORT2: "9170120724386-16321435717",
+    SUPPORT3: "9190727902587-16357752355",
+    SUPPORT4: "9055113842572-16253192286"
 };
