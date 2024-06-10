@@ -1,5 +1,5 @@
 const Julie = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
+const {MessageType} = require('@whiskeysockets/baileys');
 const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
